@@ -1,1 +1,2 @@
-# Myntra-clone
+# Project-clone
+ Myntra clone
